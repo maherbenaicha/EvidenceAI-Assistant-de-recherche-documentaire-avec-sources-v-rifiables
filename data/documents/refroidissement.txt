@@ -1,0 +1,4 @@
+Le système de refroidissement utilise un circuit d'eau.
+Une fuite peut entraîner une baisse du niveau.
+
+Le réservoir comporte un indicateur de niveau.

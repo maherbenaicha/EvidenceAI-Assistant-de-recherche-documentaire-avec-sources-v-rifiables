@@ -1,0 +1,4 @@
+Une sonde mesure la température du moteur.
+Les relevés sont enregistrés chaque minute.
+
+Un graphique présente les variations de température pendant la journée.

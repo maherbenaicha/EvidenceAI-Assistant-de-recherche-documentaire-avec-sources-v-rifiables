@@ -1,0 +1,4 @@
+Un capteur mesure la pression du circuit d'huile.
+La valeur apparaît sur le tableau de surveillance.
+
+Le journal conserve les mesures de pression avec leur date.
